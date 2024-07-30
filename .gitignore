@@ -1,3 +1,5 @@
 .venv
 .idea
 config.py
+APOD.jpg
+student_exercise.py
